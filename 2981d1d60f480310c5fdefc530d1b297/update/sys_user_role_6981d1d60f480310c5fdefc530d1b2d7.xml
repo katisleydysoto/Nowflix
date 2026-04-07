@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>Create reviews and setting</description>
+        <description>Create reviews and suggestions</description>
         <elevated_privilege>false</elevated_privilege>
         <federated_id>K8bdt2ALtMEKhqFPE0We/ed+4xqKTgSoQKIXvwrfi1g=</federated_id>
         <grantable>true</grantable>
@@ -14,13 +14,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-06 18:54:49</sys_created_on>
         <sys_id>6981d1d60f480310c5fdefc530d1b2d7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_1963948_nowflix.user</sys_name>
         <sys_package display_value="Nowflix" source="x_1963948_nowflix">2981d1d60f480310c5fdefc530d1b297</sys_package>
         <sys_policy/>
         <sys_scope display_value="Nowflix">2981d1d60f480310c5fdefc530d1b297</sys_scope>
         <sys_update_name>sys_user_role_6981d1d60f480310c5fdefc530d1b2d7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-06 18:54:49</sys_updated_on>
+        <sys_updated_on>2026-04-06 20:03:00</sys_updated_on>
     </sys_user_role>
 </record_update>

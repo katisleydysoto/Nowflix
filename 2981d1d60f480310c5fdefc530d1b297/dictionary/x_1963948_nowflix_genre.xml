@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f1de8d6e0f848310c5fdefc530d1b242" label="Genre" max_length="40" name="x_1963948_nowflix_genre" type="collection">
+        <element attributes="array=denormalized,no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_2" type="glide_list"/>
+        <element display="true" label="Nome" max_length="250" name="nome" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="41c1d9e20fc48310c5fdefc530d1b22b" sys_domain="global" table="x_1963948_nowflix_genre" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-07 13:34:22</sys_created_on>
+            <sys_id>11c1d9e20fc48310c5fdefc530d1b29d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1963948_nowflix_genre" sys_domain="global" view="Default view">41c1d9e20fc48310c5fdefc530d1b22b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-07 13:34:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1963948_nowflix_genre</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-07 13:34:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41c1d9e20fc48310c5fdefc530d1b22b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1963948_nowflix_genre</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Nowflix" source="x_1963948_nowflix">2981d1d60f480310c5fdefc530d1b297</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Nowflix">2981d1d60f480310c5fdefc530d1b297</sys_scope>
+            <sys_update_name>sys_ui_section_41c1d9e20fc48310c5fdefc530d1b22b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-07 13:34:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Nowflix">2981d1d60f480310c5fdefc530d1b297</application>
+        <file_path/>
+        <instance_id>e0d7ef743b5f3a14a36804e0b5e45a7a</instance_id>
+        <instance_name>dev362823</instance_name>
+        <name>sys_ui_section_41c1d9e20fc48310c5fdefc530d1b22b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="41c1d9e20fc48310c5fdefc530d1b22b" sys_domain="global" table="x_1963948_nowflix_genre" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-07 13:34:22</sys_created_on><sys_id>11c1d9e20fc48310c5fdefc530d1b29d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1963948_nowflix_genre" sys_domain="global" view="Default view">41c1d9e20fc48310c5fdefc530d1b22b</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-07 13:34:22</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1963948_nowflix_genre</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-07 13:34:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41c1d9e20fc48310c5fdefc530d1b22b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1963948_nowflix_genre</sys_name><sys_overrides/><sys_package display_value="Nowflix" source="x_1963948_nowflix">2981d1d60f480310c5fdefc530d1b297</sys_package><sys_policy/><sys_scope display_value="Nowflix">2981d1d60f480310c5fdefc530d1b297</sys_scope><sys_update_name>sys_ui_section_41c1d9e20fc48310c5fdefc530d1b22b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-07 13:34:21</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2110379296</payload_hash>
+        <record_name>Genre</record_name>
+        <reverted_from/>
+        <source>1ccc55960f880310c5fdefc530d1b2f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-07 13:34:22</sys_created_on>
+        <sys_id>d5c1d9e20fc48310c5fdefc530d1b2a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d6826bd580000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-07 13:34:22</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>d5c1d9e20cc483106d89790b077f4d9f</update_guid>
+        <update_guid_history>d5c1d9e20cc483106d89790b077f4d9f:2110379296</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-07 13:35:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>08c62f305cc74340a631352890b50900</sys_id>
+        <sys_metadata>41c1d9e20fc48310c5fdefc530d1b22b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="Nowflix" source="x_1963948_nowflix">2981d1d60f480310c5fdefc530d1b297</sys_package>
+        <sys_parent display_value="Nowflix Genre">f1de8d6e0f848310c5fdefc530d1b242</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Nowflix">2981d1d60f480310c5fdefc530d1b297</sys_scope>
+        <sys_scope_delete display_value="">9e06d6fd1ef64512b041b04e5dc757b9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_41c1d9e20fc48310c5fdefc530d1b22b</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_41c1d9e20fc48310c5fdefc530d1b22b">d5c1d9e20fc48310c5fdefc530d1b2a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-07 13:35:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
